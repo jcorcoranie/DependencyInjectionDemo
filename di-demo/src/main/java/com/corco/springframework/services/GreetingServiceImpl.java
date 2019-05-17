@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class GreetingServiceImpl implements GreetingService {
 	
-	public static final String HELLO_MESSAGE = "Hello dependency injectors!";
+	public static final String HELLO_MESSAGE = "Hello dependency injectors! - origional";
 
 	@Override
 	public String sayGreeting() {
