@@ -1,4 +1,4 @@
-package com.corco.springframework.services;
+package com.corco.services;
 
 public interface GreetingService {
 	

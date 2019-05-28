@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import com.corco.springframework.controllers.ConstructorInjectedController;
-import com.corco.springframework.services.GreetingServiceImpl;
+import com.corco.services.GreetingServiceImpl;
 
 public class ConstructorInjectedControllerTest {
 	

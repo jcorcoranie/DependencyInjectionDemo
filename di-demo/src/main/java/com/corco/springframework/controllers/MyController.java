@@ -2,7 +2,7 @@ package com.corco.springframework.controllers;
 
 import org.springframework.stereotype.Controller;
 
-import com.corco.springframework.services.GreetingService;
+import com.corco.services.GreetingService;
 
 @Controller
 public class MyController {
